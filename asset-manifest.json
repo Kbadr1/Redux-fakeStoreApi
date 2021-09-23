@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Redux-fakeStoreApi/static/css/main.f426573a.chunk.css",
-    "main.js": "/Redux-fakeStoreApi/static/js/main.2caec429.chunk.js",
-    "main.js.map": "/Redux-fakeStoreApi/static/js/main.2caec429.chunk.js.map",
+    "main.js": "/Redux-fakeStoreApi/static/js/main.ffe1ca88.chunk.js",
+    "main.js.map": "/Redux-fakeStoreApi/static/js/main.ffe1ca88.chunk.js.map",
     "runtime-main.js": "/Redux-fakeStoreApi/static/js/runtime-main.2f4ab6ff.js",
     "runtime-main.js.map": "/Redux-fakeStoreApi/static/js/runtime-main.2f4ab6ff.js.map",
     "static/js/2.89065d69.chunk.js": "/Redux-fakeStoreApi/static/js/2.89065d69.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2f4ab6ff.js",
     "static/js/2.89065d69.chunk.js",
     "static/css/main.f426573a.chunk.css",
-    "static/js/main.2caec429.chunk.js"
+    "static/js/main.ffe1ca88.chunk.js"
   ]
 }
