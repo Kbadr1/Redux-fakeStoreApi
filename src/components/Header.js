@@ -9,7 +9,7 @@ const Header = () => {
     <nav className="bg-purple-900 text-white">
       <div className="container mx-auto py-4 flex justify-between font-medium">
         <Link to="/">Home</Link>
-        <Link to="/cart">Cart {cartTotal}</Link>
+        <Link to="/cart">Cart {cartTotal > 0 && cartTotal}</Link>
       </div>
     </nav>
   );
