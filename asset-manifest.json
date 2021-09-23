@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Redux-fakeStoreApi/static/css/main.f426573a.chunk.css",
+    "main.js": "/Redux-fakeStoreApi/static/js/main.2caec429.chunk.js",
+    "main.js.map": "/Redux-fakeStoreApi/static/js/main.2caec429.chunk.js.map",
+    "runtime-main.js": "/Redux-fakeStoreApi/static/js/runtime-main.2f4ab6ff.js",
+    "runtime-main.js.map": "/Redux-fakeStoreApi/static/js/runtime-main.2f4ab6ff.js.map",
+    "static/js/2.89065d69.chunk.js": "/Redux-fakeStoreApi/static/js/2.89065d69.chunk.js",
+    "static/js/2.89065d69.chunk.js.map": "/Redux-fakeStoreApi/static/js/2.89065d69.chunk.js.map",
+    "static/js/3.8fcf03bf.chunk.js": "/Redux-fakeStoreApi/static/js/3.8fcf03bf.chunk.js",
+    "static/js/3.8fcf03bf.chunk.js.map": "/Redux-fakeStoreApi/static/js/3.8fcf03bf.chunk.js.map",
+    "index.html": "/Redux-fakeStoreApi/index.html",
+    "static/css/main.f426573a.chunk.css.map": "/Redux-fakeStoreApi/static/css/main.f426573a.chunk.css.map",
+    "static/js/2.89065d69.chunk.js.LICENSE.txt": "/Redux-fakeStoreApi/static/js/2.89065d69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f4ab6ff.js",
+    "static/js/2.89065d69.chunk.js",
+    "static/css/main.f426573a.chunk.css",
+    "static/js/main.2caec429.chunk.js"
+  ]
+}
