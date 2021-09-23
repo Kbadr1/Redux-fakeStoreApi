@@ -16,7 +16,7 @@ function App() {
   }, [cart]);
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Header />
         <Switch>
